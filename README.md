@@ -6,6 +6,5 @@ A new Flutter project with a custom splash screen.
 
 The related blog post for this project
 
-[codereis](http://codereis.com/posts/flutter-alternative-splash-screen/)
-
+http://codereis.com/posts/flutter-alternative-splash-screen/
 
